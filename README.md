@@ -32,3 +32,14 @@ This is a simple Tkinter app to register, search, and quiz yourself on programmi
 ### Install pyttsx3
 ```bash
 pip install pyttsx3
+
+## YouTube Live Archives / 配信アーカイブ
+
+- [1回目の配信](https://youtube.com/live/0A3-8ZEBBsk?feature=share)
+- [2回目の配信](https://youtube.com/live/GMzMkpzbNHk?feature=share)
+- [3回目の配信](https://youtube.com/live/VL2YKLmvUjw?feature=share)
+- [4回目の配信](https://youtube.com/live/yvO3bDTfCE4?feature=share)
+- [5回目の配信](https://youtube.com/live/gN9X03b-5lA?feature=share)
+- [6回目の配信](https://youtube.com/live/VUPdgpZyMdo?feature=share)
+- [7回目の配信](https://youtube.com/live/5U6-OCSRdmE?feature=share)
+
